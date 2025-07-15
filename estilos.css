@@ -1,0 +1,46 @@
+#fondo{
+ background-color: rgb(245, 239, 232);}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(88, 88, 88);
+    text-align: center;
+   
+    font-size: xx-large;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    -webkit-text-stroke: 1px rgb(0, 0, 0); 
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(88, 88, 88);
+    text-align: center;
+    font-size: x-large;
+    margin: 20px; /* Margen exterior */
+    padding: 15px; /* Espacio interior */
+}
+#menu{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#pf{
+   font-size: x-large;
+        margin: 20px; /* Margen exterior */
+        padding: 15px; /* Espacio interior */
+}
+#formulario{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+#fondof{
+    background-color: rgb(245, 239, 232);}
+#tarjetas{
+    margin: 100px; /* Margen exterior */
+    padding: 15px; /* Espacio interior */
+
+}
+#imgc{
+    margin: 50px; /* Margen exterior */
+    padding: 15px; /* Espacio interior */
+}
